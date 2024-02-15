@@ -6,7 +6,7 @@ package com.bfi.app;
  */
 public class App {
     public static void display(String param){
-        System.out.println("You parameter is " + param);
+        System.out.println("You parameter is: " + param);
     }
 
     public void someFunc(){
